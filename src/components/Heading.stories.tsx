@@ -1,5 +1,3 @@
-
-import { Slot } from '@radix-ui/react-slot';
 import { Meta, StoryObj } from "@storybook/react";
 import { Heading, HeadingProps } from "./Heading";
 
