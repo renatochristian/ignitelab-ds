@@ -1,0 +1,2 @@
+import{B as t}from"./Button.767a9bac.js";import"./index.module.ee9b6250.js";import"./index.be7a3bc3.js";import"./iframe.6c27f5eb.js";import"./clsx.m.256e9345.js";import"./jsx-runtime.5dd6656e.js";const a={title:"Components/Button",component:t,args:{children:"Button Ipsum"},argTypes:{}},i={argTypes:{asChild:{table:{disable:!0}}}},m=["Default"];export{i as Default,m as __namedExportsOrder,a as default};
+//# sourceMappingURL=Button.stories.4ff7de59.js.map
